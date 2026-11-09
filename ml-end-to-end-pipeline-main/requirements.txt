@@ -1,0 +1,8 @@
+numpy==2.3.2
+pandas==2.3.1
+scikit-learn==1.5.1
+PyYAML==6.0.2
+joblib==1.4.2
+# optional: api serve later
+fastapi==0.116.1
+uvicorn==0.35.0
